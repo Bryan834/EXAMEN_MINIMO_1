@@ -1,2 +1,5 @@
-package edu.upc.dsa.models;public class Jugador {
+package edu.upc.dsa.models;
+
+public class Jugador {
+
 }

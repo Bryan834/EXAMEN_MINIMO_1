@@ -1,2 +1,4 @@
-package edu.upc.dsa.models;public class Equipo {
+package edu.upc.dsa.models;
+
+public class Equipo {
 }

@@ -5,6 +5,7 @@ import javax.ws.rs.ext.ExceptionMapper;
 import javax.ws.rs.ext.Provider;
 import org.glassfish.grizzly.utils.Exceptions;
 
+
 @Provider
 public class MyExceptionMapper implements ExceptionMapper<Exception> {
     @Override
